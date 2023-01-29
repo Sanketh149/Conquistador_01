@@ -16,15 +16,15 @@ Additional Features
 Chat-Bot to know more about the Website
 Create and Download Resume
 
-Technologies Used  
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: PHP, MySQL
-Machine Learning: Dialog Flow
+Technologies Used    
+Frontend: HTML, CSS, JavaScript, Bootstrap  
+Backend: PHP, MySQL  
+Machine Learning: Dialog Flow  
 
 Requirements  
-Web Server (Apache, Nginx)
-PHP 7.0 or higher
-MySQL 5.6 or higher
+Web Server (Apache, Nginx)  
+PHP 7.0 or higher  
+MySQL 5.6 or higher  
 
 Installation  
 1. Install XAMPP or WAMPP.
