@@ -13,9 +13,9 @@ Email and SMS notifications for students and companies
 Admin panel for managing the system  
 
 Additional Features  
-Chat-Bot to know more about the Website
-Speech recognition in the Chat-Bot
-Create and Download Resume  
+Chat-Bot to know more about the Website   
+Speech recognition in the Chat-Bot  
+Create and Download Resume.   
 
 Technologies Used    
 Frontend: HTML, CSS, JavaScript, Bootstrap  
