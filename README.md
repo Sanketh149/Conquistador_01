@@ -22,6 +22,12 @@ Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: PHP, MySQL  
 Machine Learning: Dialog Flow  
 
+ScreenShots
+
+Home Page
+
+![Home Page](Screenshots/Dashboard.png "Home Page")
+
 Requirements  
 Web Server (Apache, Nginx)  
 PHP 7.0 or higher  
