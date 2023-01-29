@@ -1,8 +1,16 @@
 # Conquistador_01
+
+
+[Website Link](https://cbit-placements.000webhostapp.com/)  
+
+
+
 Introduction  
 This is the Application through which students can log in to their dashboard and keep track of
 upcoming interviews, submitted applications, and view company-wise eligibility. Here, Admins can upload upcoming placement drives, company eligibility, control applications, and student databases.  
 This system is designed to streamline the placement process for organizations and institutions. It helps in managing the placement drive by automating various tasks such as student registration, company registration, and generating placement reports.
+
+
 
 Features  
 Student registration and profile management  
@@ -12,15 +20,19 @@ Generating placement reports
 Email and SMS notifications for students and companies  
 Admin panel for managing the system  
 
+
 Additional Features  
 Chat-Bot to know more about the Website   
 Speech recognition in the Chat-Bot  
 Create and Download Resume.   
 
+
 Technologies Used    
 Frontend: HTML, CSS, JavaScript, Bootstrap  
 Backend: PHP, MySQL  
 Machine Learning: Dialog Flow  
+
+
 
 ScreenShots
 
