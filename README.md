@@ -28,6 +28,71 @@ Home Page
 
 ![Home Page](Screenshots/Dashboard.png "Home Page")
 
+Statistics
+
+![Statistics](Screenshots/Statistics.png "Statistics")
+
+Chat Bot
+
+![Chat Bot](Screenshots/chatbot.png "Chat Bot")
+
+Contact Us
+
+![Contact Us](Screenshots/contactus.png "Contact Us")
+
+Login Page
+
+![Login Page](Screenshots/login.png "Login Page")
+
+Admin Login
+
+![Admin Login](Screenshots/adminlogin.png "adminlogin Page")
+
+Admin Dashboard
+
+![Admin Dashboard](Screenshots/admindash.png "Admin Dashboard")
+
+Admin Drives
+
+![Admin Drives](Screenshots/admindrives.png "Admin Drives")
+
+Admin acceptance to student
+
+![Admin acceptance](Screenshots/adminaccept.png "Admin acceptance")
+
+Admin acceptance to company
+
+![Admin acceptance](Screenshots/adminacceptfirm.png "Admin acceptance")
+
+Notice issued by admin
+
+![Admin notice](Screenshots/adminnotice.png "Admin notice")
+
+Student Login
+
+![Student Login](Screenshots/studentlogin.png "Student Dashboard")
+
+Student Registration
+
+![Student Registration](Screenshots/studentregister.png "Student Registration")
+
+Drives for Student 
+
+![Drives for Student](Screenshots/userdrives.png "Drives for Student")
+
+Eligibility for Student
+
+![Eligibility for Student](Screenshots/userelgi.png "Eligibility for Student")
+
+Resume Builder for Student
+
+![Resume Builder for Student](Screenshots/resume.png "Resume Builder for Student")
+
+Placed Student List
+
+![Placed Student List](Screenshots/placedstu.png "Placed Student List")
+
+
 Requirements  
 Web Server (Apache, Nginx)  
 PHP 7.0 or higher  
